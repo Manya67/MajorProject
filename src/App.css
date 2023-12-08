@@ -1,3 +1,16 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+/*
+colors 
+#1A1A1A dark black 
+#282828 gray 
+#313131 light gray
+
+
+#BA2C73 magenta 
+#E2FCEF greenish 
+*/
