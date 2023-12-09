@@ -5,11 +5,10 @@ import Footer from "./Components/Footer";
 
 function App() {
   return (
-    <div className="h-full border-2 border-black bg-black font-extrabold">
-      checl
-      {/* <Header />
+    <div className="h-screen bg-black-light text-white">
+      <Header />
       <Container />
-      <Footer /> */}
+      <Footer />
     </div>
   );
 }
