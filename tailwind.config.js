@@ -7,6 +7,8 @@ export default {
         "black-light": "#1A1A1A",
         "gray-dark": "#282828",
         "gray-light": "#313131",
+        "highlight-dark": "#BA2C73",
+        "highlight-light": "#E2FCEF",
       },
     },
   },

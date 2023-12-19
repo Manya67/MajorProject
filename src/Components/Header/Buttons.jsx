@@ -3,7 +3,7 @@ import { Button } from "reactstrap";
 
 const Buttons = () => {
   return (
-    <div className="flex flex-row justify-center items-center gap-2 px-4 h-full text-lg gap-3">
+    <div className="flex flex-row justify-center items-center px-4 h-full text-lg gap-3">
       <Button color="primary" size="sm">
         Register
       </Button>
